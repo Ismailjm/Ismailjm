@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **ETL, NLP, TensorFlow**
+- 🌱 I’m currently learning **NLP, LLM, Neural Networks**
 
 - 👯 I’m looking to collaborate on **Computer Vision, Data Science projects**
 
