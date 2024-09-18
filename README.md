@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailjm&label=Profile%20views&color=0e75b6&style=flat" alt="ismailjm" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 I’m currently working on **ML projects**
 
 - 🌱 I’m currently learning **NLP, LLM, Neural Networks**
 
