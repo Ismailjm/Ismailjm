@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ismail EL JAMIY</h1>
 <h3 align="center">I am an AI student and data science enthusiast with a passion for exploring the realms of artificial intelligence and machine learning. Constantly curious and eager to learn, I enjoy diving deep into data to uncover insights and build solutions to real-world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailjm&label=Profile%20views&color=0e75b6&style=flat" alt="ismailjm" /> </p>
 
 - 🔭 I’m currently working on **ML projects**
 
