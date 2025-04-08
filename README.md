@@ -35,6 +35,6 @@
 
 ## 📫 Let's Connect
 
-- Email: [eljamiy.ismail@gmail.com](mailto:eljamiy.ismail@gmail.com)
-- LinkedIn: [Ismail El Jamiy](www.linkedin.com/in/ismail-el-jamiy)
+- 📧 Email: [eljamiy.ismail@gmail.com](mailto:eljamiy.ismail@gmail.com)
+- 💼 LinkedIn: [Ismail El Jamiy](https://www.linkedin.com/in/ismail-el-jamiy)
 
