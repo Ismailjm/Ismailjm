@@ -1,4 +1,4 @@
-# This is **Ismail** 🐱‍👤
+# This is **Ismail** 
 
 🚀 **Machine Learning Engineer** specializing in:
 
